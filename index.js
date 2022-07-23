@@ -1,0 +1,1 @@
+module.exports.messagingservice = require("./tools/messagingservice");

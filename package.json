@@ -1,0 +1,38 @@
+{
+  "name": "roblox-open-cloud",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "types": "types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvvrgan/roblox-open-cloud.git"
+  },
+  "keywords": [
+    "roblox",
+    "noblox",
+    "roblox",
+    "open",
+    "cloud",
+    "open",
+    "cloud",
+    "roblox",
+    "open",
+    "cloud"
+  ],
+  "author": "mvvrgan (https://mvvrgan.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvvrgan/roblox-open-cloud/issues"
+  },
+  "homepage": "https://github.com/mvvrgan/roblox-open-cloud#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "roblox-open-cloud": "^1.0.1"
+  }
+}
